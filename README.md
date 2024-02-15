@@ -2,23 +2,4 @@
 
 `vosd` is a volume OSD for Linux (uses GTK). It listens to volume change events from PulseAudio and displays a volume OSD when a volume change has been detected.
 
-## Installation
-
-```shell
-# TODO Publish to crates.io
-git clone https://github.com/andrewliebenow/vosd && cargo install --path ./vosd
-```
-
-## Usage
-
-You will likely want to run `vosd` as a daemon (`setsid --fork vosd` works).
-
-Demo:
-
-![`vosd` demo](vosd.gif)
-
-[![`vosd` demo](http://img.youtube.com/vi/SBrQ9eMF6KQ/0.jpg)](http://www.youtube.com/watch?v=SBrQ9eMF6KQ "`vosd` demo")
-
-## License
-
-MIT License, see <a href="LICENSE">LICENSE</a> file
+This is a fork with the [fascism](https://latenightafa.noblogs.org/andrew-mark-liebenow-of-austin-and-round-rock-texas-posts-hitler-content-under-eurogenicist-alias/) removed.
